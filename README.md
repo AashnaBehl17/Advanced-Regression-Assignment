@@ -37,20 +37,20 @@ The most significant features areLinear Relationship established. Significant Va
 The top influencing factors as per both Ridge and Lasso are:
 1. GrLivArea
 2. OverallQual
-age_since_built
-Neighborhood
-BsmtQual
-GarageArea
-BsmtFinSF1
-1stFlrSF
-MSSubClass
-BldgType
-KitchenQual
-Exterior1st
-Functional
-BsmtExposure
-LotArea
-2ndFlrSF
+3. age_since_built
+4. Neighborhood
+5. BsmtQual
+6. GarageArea
+7. BsmtFinSF1
+8. 1stFlrSF
+9. MSSubClass
+10. BldgType
+11. KitchenQual
+12. Exterior1st
+13. Functional
+14. BsmtExposure
+15. LotArea
+16. 2ndFlrSF
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
