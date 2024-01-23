@@ -35,8 +35,8 @@ Further, the model will be a good way for management to understand the pricing d
 The most significant features areLinear Relationship established. Significant Variables
 
 The top influencing factors as per both Ridge and Lasso are:
-GrLivArea
-OverallQual
+1. GrLivArea
+2. OverallQual
 age_since_built
 Neighborhood
 BsmtQual
